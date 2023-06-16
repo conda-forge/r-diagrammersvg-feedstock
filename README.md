@@ -1,11 +1,11 @@
-About r-diagrammersvg
-=====================
+About r-diagrammersvg-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-diagrammersvg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rich-iannone/DiagrammeRsvg
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-diagrammersvg-feedstock/blob/main/LICENSE.txt)
 
 Summary: Allows for export of DiagrammeR Graphviz objects to SVG.
 
